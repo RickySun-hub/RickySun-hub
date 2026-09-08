@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ricky Sun</title>
+  <desc id="desc">Data analytics, machine learning, and scientific computing. Abstract mathematical curves on a dark navy background.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#0b2530"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#5eead4" stop-opacity=".15"/><stop offset=".6" stop-color="#5eead4"/><stop offset="1" stop-color="#8cbcff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a7d9de" stroke-opacity=".06"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="340" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect x="670" width="530" height="340" fill="url(#grid)"/>
+    <circle cx="1125" cy="76" r="174" fill="none" stroke="#5eead4" stroke-opacity=".12"/>
+    <circle cx="1125" cy="76" r="122" fill="none" stroke="#5eead4" stroke-opacity=".1"/>
+    <path d="M690 252C748 252 750 116 814 116S883 271 943 235S1007 86 1072 112S1147 221 1224 101" fill="none" stroke="url(#line)" stroke-width="3"/>
+    <path d="M690 222C759 255 786 160 840 174S916 225 971 185S1073 157 1210 48" fill="none" stroke="#8cbcff" stroke-opacity=".38" stroke-width="1.5"/>
+    <g fill="#5eead4"><circle cx="814" cy="116" r="5"/><circle cx="943" cy="235" r="5"/><circle cx="1072" cy="112" r="5"/></g>
+    <rect x="56" y="57" width="30" height="3" rx="1.5" fill="#5eead4"/>
+    <text x="101" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3" fill="#a9c4d5">DATA / MODELS / EVIDENCE</text>
+    <text x="53" y="157" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700" letter-spacing="-3" fill="#f2f7fc">Ricky Sun</text>
+    <text x="57" y="205" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d2e1ee">From raw data to results you can inspect.</text>
+    <text x="57" y="276" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#7ddccf">DATA ANALYTICS</text>
+    <circle cx="218" cy="270" r="2" fill="#638294"/>
+    <text x="235" y="276" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#b4c8df">MACHINE LEARNING</text>
+    <circle cx="424" cy="270" r="2" fill="#638294"/>
+    <text x="441" y="276" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#b4c8df">SCIENTIFIC COMPUTING</text>
+  </g>
+</svg>
