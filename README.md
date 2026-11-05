@@ -7,7 +7,7 @@
   <a href="https://github.com/RickySun-hub?tab=repositories">All repositories</a>
 </p>
 
-I'm Ricky, a UC Irvine graduate in **Applied & Computational Mathematics**, with a minor in **Statistics**. I build reproducible data analyses and machine learning projects, from raw data and SQL to model evaluation and clear reports.
+I'm Ricky, a UC graduate in **Applied & Computational Mathematics**, with a minor in **Statistics**. I build reproducible data analyses and machine learning projects, from raw data and SQL to model evaluation and clear reports.
 
 My interests span product analytics, forecasting, and scientific computing. I care about defining metrics carefully, testing assumptions, and making results easy to inspect.
 
